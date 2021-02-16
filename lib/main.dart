@@ -1,11 +1,12 @@
 import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_app/trackpg.dart';
 import 'package:table_calendar/table_calendar.dart';
 import 'dart:async';
 import 'dart:math';
 import 'package:video_player/video_player.dart';
+
+import 'data/trackpg.dart';
 
 void main() {
   runApp(MyApp());
